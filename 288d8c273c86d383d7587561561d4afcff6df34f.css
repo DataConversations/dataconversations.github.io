@@ -659,12 +659,12 @@ html.notion-front-page .notion-app-inner {
     height: 16px
     }
 .loading-dot {
-    width: 3px;
-    height: 3px;
+    width: 4px;
+    height: 4px;
     opacity: 0.4;
     background-color: #a782c3;
     border-radius: 100%;
-    animation-duration: 0.6s;
+    animation-duration: 0.5s;
     animation-name: dotdance;
     animation-iteration-count: infinite;
     animation-direction: alternate;
